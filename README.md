@@ -47,8 +47,8 @@ The performance of each model is evaluated using metrics such as Mean Absolute E
 ## Usage
 
 To use the Real-Estate Price Predictor:
-1. Clone the repository to your local machine.
-2. Install the required dependencies specified in the `requirements.txt` file.
+1. Install the required dependencies by running: `pip install -r requirements.txt`.
+2. Clone the repository to your local machine.
 3. Preprocess the dataset and train the machine learning models using the provided scripts.
 4. Use the trained models to predict real-estate prices for new properties.
 5. Evaluate the performance of the models using the provided evaluation metrics.
